@@ -1,0 +1,221 @@
+{
+   "userInfo": {},
+   "authors": [],
+   "isbn": [],
+   "issn": [],
+   "articleNumber": "543191",
+   "dbTime": "2 ms",
+   "metrics": {
+      "citationCountPaper": 3,
+      "citationCountPatent": 1,
+      "totalDownloads": 10
+   },
+   "purchaseOptions": {
+      "showOtherFormatPricingTab": false,
+      "showPdfFormatPricingTab": true,
+      "pdfPricingInfoAvailable": true,
+      "otherPricingInfoAvailable": false,
+      "mandatoryBundle": false,
+      "optionalBundle": false,
+      "pdfPricingInfo": [
+         {
+            "memberPrice": "$14.95",
+            "nonMemberPrice": "$33.00",
+            "partNumber": "543191",
+            "type": "PDF"
+         }
+      ]
+   },
+   "getProgramTermsAccepted": false,
+   "sections": [
+      {
+         "abstract": "true",
+         "authors": "true",
+         "figures": "false",
+         "multimedia": "false",
+         "references": "true",
+         "citedby": "true",
+         "keywords": "true",
+         "definitions": "false",
+         "algorithm": "false",
+         "dataset": "false",
+         "cadmore": "false",
+         "footnotes": "false",
+         "disclaimer": "false",
+         "relatedContent": "false",
+         "metrics": "true"
+      },
+      {
+         "abstract": "true",
+         "authors": "true",
+         "figures": "false",
+         "multimedia": "false",
+         "references": "true",
+         "citedby": "true",
+         "keywords": "true",
+         "definitions": "false",
+         "algorithm": "false",
+         "dataset": "false",
+         "cadmore": "false",
+         "footnotes": "false",
+         "disclaimer": "false",
+         "relatedContent": "false",
+         "metrics": "true"
+      }
+   ],
+   "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=543191",
+   "keywords": [
+      {
+         "type": "IEEE Keywords",
+         "kwd": [
+            "Maximum likelihood estimation",
+            "Bayesian methods",
+            "Training data",
+            "Speech recognition",
+            "Loudspeakers",
+            "Humans",
+            "Laboratories",
+            "Parameter estimation"
+         ]
+      },
+      {
+         "type": "INSPEC: Controlled Indexing",
+         "kwd": [
+            "speech recognition",
+            "speech processing",
+            "acoustic signal processing",
+            "Bayes methods",
+            "maximum likelihood estimation",
+            "smoothing methods",
+            "error statistics"
+         ]
+      },
+      {
+         "type": "INSPEC: Non-Controlled Indexing",
+         "kwd": [
+            "minimum classification error training",
+            "vector-field-smoothed Bayesian learning",
+            "recognition performance",
+            "MAP/VFS",
+            "robust acoustic modeling",
+            "speaker adaptation",
+            "50-word training data",
+            "error reduction rate",
+            "MAP"
+         ]
+      }
+   ],
+   "abstract": "This paper describes an efficient method of attaining the highest level of recognition performance yet achieved in minimum classification error (MCE) training for a small amount of data. This method combines MCE and vector-field-smoothed Bayesian learning called MAP/VFS. In the proposed method, the training capability of MCE in robust acoustic modeling can be significantly enhanced with MAP/VFS. In the method, MCE training is performed using an initial model trained through MAP/VFS. The same data are used in both training. For speaker adaptation using 50-word training data, the error reduction rate drastically rises to 47% compared with 16.5% when using only MCE. This high rate, in which 39% is due to MAP, an additional 4% is due to VFS, and a further improvement of 4% is due to MCE, can be attained by enhancing MCE training capability with MAP/VFS.",
+   "pubLink": "/xpl/conhome/3856/proceeding",
+   "allowComments": false,
+   "formulaStrippedArticleTitle": "Minimum classification error training for a small amount of data enhanced by vector-field-smoothed Bayesian learning",
+   "doi": [
+      "10.1109/ICASSP.1996.543191",
+      "10.1109/ICASSP.1996.543191"
+   ],
+   "pdfPath": [
+      "/iel3/3856/11265/00543191.pdf",
+      "/iel3/3856/11265/00543191.pdf"
+   ],
+   "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Minimum+classification+error+training+for+a+small+amount+of+data+enhanced+by+vector-field-smoothed+Bayesian+learning&isbn=0-7803-3192-3&publicationDate=1996&author=J.+Takahashi&ContentID=10.1109/ICASSP.1996.543191&orderBeanReset=true&startPage=597&endPage=600 vol. 2&volumeNum=2&proceedingName=1996+IEEE+International+Conference+on+Acoustics%2C+Speech%2C+and+Signal+Processing+Conference+Proceedings",
+   "startPage": [
+      "597",
+      "597"
+   ],
+   "publicationTitle": [
+      "1996 IEEE International Conference on Acoustics, Speech, and Signal Processing Conference Proceedings",
+      "1996 IEEE International Conference on Acoustics, Speech, and Signal Processing Conference Proceedings"
+   ],
+   "displayPublicationTitle": [
+      "1996 IEEE International Conference on Acoustics, Speech, and Signal Processing Conference Proceedings",
+      "1996 IEEE International Conference on Acoustics, Speech, and Signal Processing Conference Proceedings"
+   ],
+   "issueLink": "/xpl/tocresult.jsp?isnumber=11265",
+   "doiLink": "https://doi.org/10.1109/ICASSP.1996.543191",
+   "endPage": [
+      "600 vol. 2",
+      "600 vol. 2"
+   ],
+   "isReadingRoomArticle": false,
+   "isGetArticle": false,
+   "isGetAddressInfoCaptured": false,
+   "isMarketingOptIn": false,
+   "pubTopics": [
+      {
+         "name": "Signal Processing and Analysis"
+      },
+      {
+         "name": "Components, Circuits, Devices and Systems"
+      }
+   ],
+   "publisher": "IEEE",
+   "isDynamicHtml": false,
+   "isFreeDocument": false,
+   "displayDocTitle": "Minimum classification error training for a small amount of data enhanced by vector-field-smoothed Bayesian learning",
+   "isStandard": false,
+   "conferenceDate": [
+      "9-9 May 1996",
+      "9-9 May 1996"
+   ],
+   "isSMPTE": false,
+   "isOUP": false,
+   "isSAE": false,
+   "isNow": false,
+   "isCustomDenial": false,
+   "xploreDocumentType": "Conference Publication",
+   "isACM": false,
+   "isConference": true,
+   "volume": [
+      "2",
+      "2"
+   ],
+   "isEarlyAccess": false,
+   "isChapter": false,
+   "isStaticHtml": false,
+   "isProduct": false,
+   "isMorganClaypool": false,
+   "dateOfInsertion": [
+      "06 August 2002",
+      "06 August 2002"
+   ],
+   "publicationDate": [
+      "1996",
+      "1996"
+   ],
+   "accessionNumber": [
+      "5472342",
+      "5472342"
+   ],
+   "isOpenAccess": false,
+   "isEphemera": false,
+   "persistentLink": "https://ieeexplore.ieee.org/servlet/opac?punumber=3856",
+   "isJournal": false,
+   "isBook": false,
+   "isBookWithoutChapters": false,
+   "htmlAbstractLink": "/document/543191/",
+   "chronOrPublicationDate": "7-10 May 1996",
+   "isNotDynamicOrStatic": true,
+   "isPromo": false,
+   "openAccessFlag": "F",
+   "ephemeraFlag": "false",
+   "title": "Minimum classification error training for a small amount of data enhanced by vector-field-smoothed Bayesian learning",
+   "confLoc": "Atlanta, GA, USA",
+   "html_flag": "false",
+   "ml_html_flag": "false",
+   "sourcePdf": "00543191.pdf",
+   "content_type": "Conferences",
+   "mlTime": "PT0.024319S",
+   "chronDate": "7-10 May 1996",
+   "isNumber": "11265",
+   "rightsLinkFlag": "1",
+   "contentType": "conferences",
+   "publicationNumber": "3856",
+   "citationCount": "3",
+   "articleId": "543191",
+   "onlineDate": "",
+   "contentTypeDisplay": "Conferences",
+   "publicationYear": "1996",
+   "subType": "IEEE Conference",
+   "lastupdate": "2021-04-24",
+   "mediaPath": ""
+}

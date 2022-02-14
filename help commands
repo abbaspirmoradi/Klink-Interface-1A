@@ -1,0 +1,37 @@
+Install:
+===========================================
+npm install --save-dev babel-cli
+npm i express
+npm i body-parser
+npm i mysql
+
+
+execute below:
+------------------------------------------
+npm run start
+
+http://localhost:5000/DLSIapi/v0/ieeedata
+
+
+lsof -i tcp:5000
+kill -9 <pid>
+
+
+This package has installed:
+	•	Node.js v12.18.3 to /usr/local/bin/node
+	•	npm v6.14.6 to /usr/local/bin/npm
+Make sure that /usr/local/bin is in your $PATH.
+
+
+Making sure /usr/local/bin is in my $PATH on mac
+
+
+export PATH=$PATH:/usr/local/bin
+
+echo $PATH
+
+nvm install 10.22.0
+
+
+
+

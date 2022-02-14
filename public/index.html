@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="scripts/style.css">
+    <script src='scripts/d3.js' type='text/javascript'></script>
+    <script type="text/javascript" src="scripts/hilitor.js"></script>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script src="https://code.jquery.com/jquery-latest.min.js"></script>
+    <title>Digital Library Search</title>
+    <meta name="viewport" content="width=device-width, maximum-scale=1" />
+</head>
+
+<header>
+    <h1 class="title" style="text-align: center; visibility: hidden;">KLink Search</h1>
+    <img id="logo_icon" alt="Search" src="images/klogo1.png">
+</header>
+
+<body>
+    <div id="page-container">
+        <div id="content-wrap">
+            <section id="section_searchbar" class="sticky">
+                <input type="text" id="tb_search" autocomplete="off">
+                <input type="image" id="img_search" src="images/search_icon.png" alt="Submit" width="55" height="36.01">
+            </section>
+            <br/><br/>
+            <section id="SERP_section">
+                <section id="txt_output"> Showing <b id="startpaper"> </b> to <b id="endpaper"> </b> of <b id="totalrecordsfromAPI"></b> for
+                    <b id="searchquery"> </b>
+                </section>
+
+                <table id="searchresults ">
+                    <thead>
+                        <th id="paper_col" style="width:60%; visibility: hidden;"></th>
+                        <th id="keyword_col" style="width:35%; visibility: hidden;"></th>
+                    </thead>
+                    <tbody id="resultbody">
+                    </tbody>
+                </table>
+            </section>
+            <div id="navigation_page">
+                <a class="pagenumber" id="page1"> 1 </a>
+                <a class="pagenumber" id="page2"> 2 </a>
+                <a class="pagenumber" id="page3"> 3 </a>
+                <a class="pagenumber" id="page4"> 4 </a>
+                <a class="pagenumber" id="page5"> 5 </a>
+            </div>
+        </div>
+    </div>
+</body>
+<div class="se-pre-con"></div>
+<script src='scripts/queue.js' type='text/javascript'></script>
+<script src="scripts/client.js " type='text/javascript'></script>
+<script src="https://code.jquery.com/jquery-latest.min.js "></script>
+<script src="https://code.jquery.com/jquery-3.5.0.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+
+</html>

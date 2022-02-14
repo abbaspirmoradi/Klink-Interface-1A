@@ -1,0 +1,6 @@
+# ignore all logs
+*.log
+# dependencies
+node_modules/
+# production
+/build
